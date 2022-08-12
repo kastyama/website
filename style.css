@@ -1,0 +1,15 @@
+h1{
+    color: #9600ff;
+  }
+  
+  h2 {
+    color: red
+  }
+  h3{color :orange}
+  h4{color :blue}
+  h5{color :brown}
+  h6{color :green}
+  img {
+    display: block;
+    margin-left: auto ;
+    margin-right: auto;
